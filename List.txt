@@ -1,0 +1,11 @@
+﻿1、开闭原则（Open Close Principle）：对扩展开放对修改关闭
+
+2、里氏代换原则（Liskov Substitution Principle）：父类出现的地方，子类也可出现
+
+3、依赖倒转原则（Dependence Inversion Principle）：依赖抽象而不依赖具体
+
+4、接口隔离原则（Interface Segregation Principle）：多个隔离的接口，比使用单个接口要好
+
+5、迪米特法则（最少知道原则）（Demeter Principle）：最少知道原则。一个实体应当尽量少的与其他实体之间发生相互作用
+
+6、合成复用原则（Composite Reuse Principle）：尽量使用合成/聚合的方式，而不是使用继承。
